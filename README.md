@@ -143,20 +143,18 @@ This project helped in understanding:
 
 ---
 
-## Author
-
-**Parth Mahajan**  
-BTech Student | Aspiring Software Developer  
-
-Passionate about software development, responsive web design, and building practical projects to improve problem-solving and programming skills. Currently learning Java, full-stack development, and exploring real-world software projects.
-
-- GitHub: https://github.com/ParthMahajan1020  
-- LinkedIn: https://linkedin.com/in/your-linkedin-username  
-- Focus Areas: Java, HTML, CSS, Responsive Web Design  
-- Interests: Console Applications, UI Cloning, Software Development
-
----
-
 ## License
 
 This project is open source and available under the MIT License.
+
+---
+
+## Author
+
+*Parth Mahajan*  
+- BTech Student | Full-Stack Web Development & DSA
+- LinkedIn: https://www.linkedin.com/in/parth-mahajan1020/
+- GitHub: https://github.com/ParthMahajan1020  
+- Email: parth.mahajan1020@example.com  
+- Passionate about building console applications, learning new programming languages, and exploring software projects.
+
